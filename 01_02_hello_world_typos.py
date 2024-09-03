@@ -1,2 +1,2 @@
 print("Hello PHyton world!)
-      #add a Quotetation mark to the end of the sentence, before the Parentheses in order for it to print.
+ #add a Quotation mark to the end of the sentence, before the Parentheses, in order for the line to print.
